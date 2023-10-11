@@ -1,3 +1,7 @@
+# projekt
+
+This is the code used to generate the board for [PROJEKT:OVERFLOW](https://punkx.org/overflow)
+
 # install
 
 ```
