@@ -1,0 +1,9 @@
+{
+  "name": "draw",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "paper": "^0.12.17",
+    "paper-jsdom": "^0.12.17"
+  }
+}
